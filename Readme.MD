@@ -74,8 +74,27 @@ DevOps Interview question that I faced during my interview.
 71.	How do you debug your existed container?
 72.	how do you upgrade Jenkins?
 73.	Null resource in terraform 
+74. Explian S3 lifecycle
+75. Can you increase the size of the root volume without shutting down the instance?
+76. How has Ansible helped your organization?
+77. What is Kubernetes Ingress?
+78. Kubernetes ConfigMaps and Secrets?
+79. What is Deamon set
 74.	How can we pass an argument to Dockerfile?
 75.	What are register targets in Ansible?
 76.	Dockerfile runs as which user?
 77.	Docker Compose?
+78. How do you push the image to DockerHub
+79. Write the docker file in java based
+80. Can you explain the concept of auto-healing in Kubernetes and give examples of how it works?
+81 .What is the label & selector in k8s?
+82. What is crashloofbackoff state in a pod?
+83. What is DR?
+84. How do you create a multi-branch Jenkins pipeline?
+85.Explain the concept of a workspace
+86.How to access the S3 bucket privately
+87.How many many VPC can we create in one Region
+88. autoscaling in aws ?
+89. how microservces will work?
+90. How do you mange credentials in terraform?
 
