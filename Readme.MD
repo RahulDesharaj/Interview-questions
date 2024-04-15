@@ -1,11 +1,11 @@
 DevOps Interview question that I faced during my interview.
 
 •	How do you determine if a subnet is private or public? 
+•	if I want to run a specific container in pod in Kubernetes how to run it?
 •	What is diff b\w EBS and EFS
 •	Can you attach a single EBS volume to the multiple EC2 instances at the same time?  
-•	what is the diff b\w ALB and NLB 
-        if I want to run a specific container in pod in Kubernetes how to run it?
-•	state in terraform?
+•	•	what is the diff b\w ALB and NLB 
+ •	state in terraform?
 •	Remote state in terraform?
 •	what are pipeline stages in your organization?
 •	terraform data block vs resource block?
@@ -50,7 +50,7 @@ DevOps Interview question that I faced during my interview.
 •	What is difference between NACL and Security groups?
 •	difference between Network and application load balancer
 •	What are the different dashboards created in Grafana?
-what is ansible playbook?
+•	what is ansible playbook?
 •	What are handlers in Ansible playbook?
 •	What are various modules you have used in Ansible?
 •	What is Ansible ad hoc command?
@@ -63,7 +63,7 @@ what is ansible playbook?
 •	What is the Blue/Green Deployment Pattern?
 •	What is a route table in Amazon VPC?
 •	A role is type IAM identity used to authenticate and authorize to utilize the AWS services.
-policy is nothing but what type of permission is given to the IAM identity
+•	policy is nothing but what type of permission is given to the IAM identity
 •	Merge vs rebase 
 •	interactive rebase git
 •	squash in git
@@ -71,11 +71,11 @@ policy is nothing but what type of permission is given to the IAM identity
 •	What is cherry pic
 •	Jenkins error
 •	Provider in terraform 
-How do you debug your existed container?
-how do you upgrade Jenkins?
+•	How do you debug your existed container?
+•	how do you upgrade Jenkins?
 •	Null resource in terraform 
 •	How can we pass an argument to Dockerfile?
 •	What are register targets in Ansible?
 •	Dockerfile runs as which user?
-Docker Compose?
+•	Docker Compose?
 
