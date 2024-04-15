@@ -4,7 +4,7 @@ DevOps Interview question that I faced during my interview.
 •	What is diff b\w EBS and EFS
 •	Can you attach a single EBS volume to the multiple EC2 instances at the same time?  
 •	what is the diff b\w ALB and NLB 
-    if I want to run a specific container in pod in Kubernetes how to run it?
+        if I want to run a specific container in pod in Kubernetes how to run it?
 •	state in terraform?
 •	Remote state in terraform?
 •	what are pipeline stages in your organization?
