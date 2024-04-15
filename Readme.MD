@@ -1,3 +1,5 @@
+DevOps Interview question that I faced during my interview.
+
 •	How do you determine if a subnet is private or public? 
 •	What is diff b\w EBS and EFS
 •	Can you attach a single EBS volume to the multiple EC2 instances at the same time?  
