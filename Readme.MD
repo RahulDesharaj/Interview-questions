@@ -102,7 +102,7 @@
 
 ## Devops Scenario Based Interview Questions ##
 
-1.your organization is experiencing intermittent outages in its production environment, impacting customer experience. How would you approach troubleshooting and resolving these outages?
+ 1.your organization is experiencing intermittent outages in its production environment, impacting customer experience. How would you approach troubleshooting and resolving these outages?
 
 2. You've just deployed a new version of an application to production, but shortly after deployment, users are reporting issues with slow response times. What steps would you take to troubleshoot and resolve this issue?
 
