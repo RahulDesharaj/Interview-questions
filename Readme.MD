@@ -1,11 +1,10 @@
-! DevOps Interview question that I faced during my interview.
+DevOps Interview question that I faced during my interview
 
 1.	How do you determine if a subnet is private or public? 
 2.	if I want to run a specific container in pod in Kubernetes how to run it?
 3.	What is diff b\w EBS and EFS
 4.	Can you attach a single EBS volume to the multiple EC2 instances at the same time?  
 5.	what is the diff b\w ALB and NLB 
-
 6.	Remote state in terraform and state in terraform?
 7.	what are pipeline stages in your organization?
 8.	terraform data block vs resource block?
@@ -74,27 +73,27 @@
 71.	How do you debug your existed container?
 72.	how do you upgrade Jenkins?
 73.	Null resource in terraform 
-74. Explian S3 lifecycle
-75. Can you increase the size of the root volume without shutting down the instance?
-76. How has Ansible helped your organization?
-77. What is Kubernetes Ingress?
-78. Kubernetes ConfigMaps and Secrets?
-79. What is Deamon set
-74.	How can we pass an argument to Dockerfile?
-75.	What are register targets in Ansible?
-76.	Dockerfile runs as which user?
-77.	Docker Compose?
-78. How do you push the image to DockerHub
-79. Write the docker file in java based
-80. Can you explain the concept of auto-healing in Kubernetes and give examples of how it works?
-81 .What is the label & selector in k8s?
-82. What is crashloofbackoff state in a pod?
-83. What is DR?
-84. How do you create a multi-branch Jenkins pipeline?
-85.Explain the concept of a workspace
-86.How to access the S3 bucket privately
-87.How many many VPC can we create in one Region
-88. autoscaling in aws ?
-89. how microservces will work?
-90. How do you mange credentials in terraform?
+74.	Explian S3 lifecycle
+75.	Can you increase the size of the root volume without shutting down the instance?
+76.	How has Ansible helped your organization?
+77.	What is Kubernetes Ingress?
+78.	Kubernetes ConfigMaps and Secrets?
+79.	What is Deamon set
+80.	How can we pass an argument to Dockerfile?
+81.	What are register targets in Ansible?
+82.	Dockerfile runs as which user?
+83.	Docker Compose?
+84.	 How do you push the image to Docker Hub
+85.	 Write the docker file in java based
+86.	Can you explain the concept of auto-healing in Kubernetes and give examples of how it works?
+87.	What is the label & selector in k8s?
+88.	What is crashloofbackoff state in a pod?
+89.	What is DR?
+90.	How do you create a multi-branch Jenkins pipeline?
+91.	Explain the concept of a workspace
+92.	How to access the S3 bucket privately
+93.	How many many VPC can we create in one Region
+94.	autoscaling in aws ?
+95.	how microservces will work?
+96.	How do you mange credentials in terraform?
 
