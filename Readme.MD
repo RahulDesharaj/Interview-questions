@@ -1,5 +1,5 @@
 # DevOps Interview question that I faced during my interview #
-
+$${\color{green}Green}$$
 1.	How do you determine if a subnet is private or public? 
 2.	if I want to run a specific container in pod in Kubernetes how to run it?
 3.	What is diff b\w EBS and EFS
