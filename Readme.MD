@@ -96,4 +96,7 @@ DevOps Interview question that I faced during my interview
 94.	autoscaling in aws ?
 95.	how microservces will work?
 96.	How do you mange credentials in terraform?
-
+97. What is CRONTAB?
+98. How would you know the disk usage using the shell script commands?
+99. Give the purpose of the shebang line.
+100. Tell us about the ‘$#’ use in shell scripting.
