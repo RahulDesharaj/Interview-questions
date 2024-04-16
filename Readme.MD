@@ -102,10 +102,11 @@
 
 ## Devops Scenario Based Interview Questions ##
 
- 1.your organization is experiencing intermittent outages in its production environment, impacting customer experience. How would you approach troubleshooting and resolving these outages?
+ 1. your organization is experiencing intermittent outages in its production environment, impacting customer experience. How would you approach troubleshooting and resolving these outages?
 
-2. You've just deployed a new version of an application to production, but shortly after deployment, users are reporting issues with slow response times. What steps would you take to troubleshoot and resolve this issue?
+ 2. You've just deployed a new version of an application to production, but shortly after deployment, users are reporting issues with slow response times. What steps would you take to 
+    troubleshoot and resolve this issue?
 
-3. Can you outline the key components of the CI/CD pipeline you would design for this project, including the tools you would use and the specific stages in the pipeline?
+ 3. Can you outline the key components of the CI/CD pipeline you would design for this project, including the tools you would use and the specific stages in the pipeline?
 
-4. How do we enforce policy to automatically include a group as a PR ( Pull Request ) approver?
+ 4. How do we enforce policy to automatically include a group as a PR ( Pull Request ) approver?
